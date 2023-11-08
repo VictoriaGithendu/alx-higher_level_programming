@@ -6,4 +6,4 @@ def search_replace(my_list, search, replace):
     for idx, c in enumerate(new_list):
         if c == search:
             new_list[idx] = replace
-    return new_list        
+    return new_list
