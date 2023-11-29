@@ -99,4 +99,3 @@ class Rectangle:
         """Creates a new Rectangle instance with width == height == size
         """
         return cls(size, size)
-
